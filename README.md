@@ -1,4 +1,4 @@
-# Beautech Salon Health Check
+#Salon Health Check
 
 A deploy-ready React + Vite interactive customer engagement tool for Beautech.
 
