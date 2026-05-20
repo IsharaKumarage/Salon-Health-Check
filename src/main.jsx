@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { motion, AnimatePresence } from 'framer-motion';
-import { CalendarDays, Clock, MessageCircle, Wallet, PackageCheck, BarChart3, Sparkles, AlertTriangle, CheckCircle2, ArrowRight, ArrowLeft, PhoneCall, Heart, CalendarCheck, UserRound, FileText } from 'lucide-react';
+import { CalendarDays, Clock, MessageCircle, Wallet, PackageCheck, BarChart3, Sparkles, AlertTriangle, CheckCircle2, ArrowRight, ArrowLeft, PhoneCall, Heart, CalendarCheck, UserRound, FileText, Users } from 'lucide-react';
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip } from 'recharts';
 import './styles.css';
 
